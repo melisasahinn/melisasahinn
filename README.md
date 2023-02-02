@@ -5,9 +5,7 @@
  <h2 align="left">👨🏻‍💻 About Me:</h2>
 
 
- <img src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif" alt="Coder GIF" width="400" height="300" align="right">
-
-   <ul> 
+    <ul> 
       <li>My name is Melisa ŞAHİN and I was born in Turkey </li>
       <li>I'm 21 years old</li>
       <li>I'm a 3rd student at Trakya University departmant</li>
