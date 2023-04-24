@@ -1,18 +1,4 @@
-<p align="center">
-<!--<img src="https://media.giphy.com/media/3oEjHYlwvUK5p9AIbm/giphy.gif" width="500" width="1000px">-->
- </p>
 
- <h2 align="left">👨🏻‍💻 About Me:</h2>
-
-
-    <ul> 
-      <li>My name is Melisa ŞAHİN and I was born in Turkey </li>
-      <li>I'm 21 years old</li>
-      <li>I'm a 3rd student at Trakya University departmant</li>
-      
-   </ul>
-
- <br>
  
 <h2 align="left">🛠️ Technologies and Tools I use:</h2>
 <p align="left">
