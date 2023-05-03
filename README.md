@@ -15,7 +15,7 @@
  🔭 I’m currently working on embedded programming.
 - 🎓 I graduated from ITU - Computer Engineering department in 2020.
 - 🌱 I’m currently learning .NET and React. I am improving myself on web development, front-end and back-end development.
-- 📫 How to reach me: You can sent e-mail to me: cansuyanik96@gmail.com
+- 📫 How to reach me: You can sent e-mail to me: mmelisasahin@gmail.com
 - 💬 Ask me about anything you want 🙂
 </div>
 <h2 align="center">Languages and Tools:</h2>
