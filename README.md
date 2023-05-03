@@ -16,7 +16,7 @@
 - 🎓 I will graduate from Trakya University - Computer Technology and Information Systems department in June 2023.
 - 🌱 I’m currently learning .NET. I am improving myself on web development, back-end development.
 - 📫 How to reach me: You can sent e-mail to me: mmelisasahin@gmail.com
-- 💬 Ask me about anything you want 🙂
+
 </div>
 <h2 align="center">Languages and Tools:</h2>
 <p align="center">
