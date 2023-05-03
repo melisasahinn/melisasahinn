@@ -1,5 +1,6 @@
  <h1 align="center"> Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" /> I'm Melisa </h1> <h3 align="center"> Junior Software Developer</h3> <div style="margin-left: 290px;"> <p align="left">
- Here are some ideas to get you started:
+ 
+ <!-- Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
