@@ -1,4 +1,4 @@
- <h1 align="center"> Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" /> I'm Melisa </h1> <h3 align="center">Software Developer</h3> <div style="margin-left: 290px;"> <p align="left">
+ <h1 align="center"> Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" /> I'm Melisa </h1> <h3 align="center"> Junior Software Developer</h3> <div style="margin-left: 290px;"> <p align="left">
  Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -10,6 +10,12 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+ 
+ 🔭 I’m currently working on embedded programming.
+- 🎓 I graduated from ITU - Computer Engineering department in 2020.
+- 🌱 I’m currently learning .NET and React. I am improving myself on web development, front-end and back-end development.
+- 📫 How to reach me: You can sent e-mail to me: cansuyanik96@gmail.com
+- 💬 Ask me about anything you want 🙂
 </div>
 <h2 align="center">Languages and Tools:</h2>
 <p align="center">
