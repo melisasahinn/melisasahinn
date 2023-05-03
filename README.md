@@ -12,9 +12,9 @@
 - ⚡ Fun fact: ...
 -->
  
- 🔭 I’m currently working on embedded programming.
-- 🎓 I graduated from ITU - Computer Engineering department in 2020.
-- 🌱 I’m currently learning .NET and React. I am improving myself on web development, front-end and back-end development.
+ 🔭 I am currently working on project development on .NET 7 CQRS.
+- 🎓 I will graduate from Trakya University - Computer Technology and Information Systems department in June 2023.
+- 🌱 I’m currently learning .NET. I am improving myself on web development, back-end development.
 - 📫 How to reach me: You can sent e-mail to me: mmelisasahin@gmail.com
 - 💬 Ask me about anything you want 🙂
 </div>
